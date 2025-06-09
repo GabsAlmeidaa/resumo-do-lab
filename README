@@ -1,0 +1,2 @@
+No portal Azure é preciso selecionar Todos os serviços e então clicar em SQL do azure, e logo em seguida Criar, aí seleciona Instancia unica.
+Após isso, é necessário preencher as guias Basico, Rede, Segurança e algumas confugurações adicionais de forma detalhada. E então validar e criar.
