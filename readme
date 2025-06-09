@@ -1,1 +1,4 @@
-
+É necessário partir da parte de Todos os serviços no portal da Azure, após isso na aba computação clicar em Máquinas virtuais, e entao em Máquina virtual Azure. 
+Então é aberta uma página onde será preciso escolher o nome da máquina virtual e a respectiva imagem para seu funcionamento, o próximo passo é definir um nome de usuário e senha para a conta de administrador.
+Na parte de regra de porta de entrada então é preciso escolher permiti-las e escolher RDP 3389. Depois basta validar e criar.
+a
